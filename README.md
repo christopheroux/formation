@@ -1,4 +1,4 @@
 
 - Blackpink
 
-![Blackpink]("img/OIP.jpg")
+![Blackpink](img/OIP.jpg)
