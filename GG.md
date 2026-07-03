@@ -1,14 +1,14 @@
 ## Liste groupes
 
-- Blackpink
+1. Blackpink
 
 ![Blackpink](img/OIP.jpg)
 
-- Young Posse
+2. Young Posse
 
 ![YOUNG POSSE](img/young_posse_xxl.jpg)
 
-- Babymonster
+3. Babymonster
 
 ![Babymonster](img/Baemon.jpg)
 
