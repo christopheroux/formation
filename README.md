@@ -1,21 +1,21 @@
 ## Liste groupes
 
-- Twice
-
-![Twice](img/Twice2.jpg)
-
-- Blackpink
-
-![Blackpink](img/OIP.jpg)
-
-- Young Posse
+1. Young Posse
 
 ![YOUNG POSSE](img/young_posse_xxl.jpg)
 
-- justB
+2. Blackpink : Jisoo, Jennie, Rosé, Lisa
+
+![Blackpink](img/OIP.jpg)
+
+3. justB
 
 ![JustB](img/JustB.jpg)
 
-- Babymonster
+4. Babymonster
 
 ![Babymonster](img/Baemon.jpg)
+
+5. Twice
+
+![Twice](img/Twice2.jpg)
