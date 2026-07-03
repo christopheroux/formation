@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Liste groupes
 
 - Blackpink
@@ -13,11 +12,3 @@
 
 - Babymonster
 ![Babymonster](img/Baemon.jpg)
-=======
-- Fruits
-- Voitures
-- Sandwich
-- Jeux
-- Films
-- etc...
->>>>>>> feature/j1/p1
